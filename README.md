@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chant-des-sirenes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Chant Des Sirènes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-sirenes/) |
+| **Get License** | [Official Music Licensing for Le Chant Des Sirènes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-sirenes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'entends le chant des sirènes quand tu croises mon regard
+> Dans le VIP du club, on s'échappe dans le noir
+> Come closer to me, laisse le tempo nous guider
+> Tes lèvres sur les miennes, on n'va plus s'arrêter
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
