@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chant-des-sirenes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Le Chant Des Sirènes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-sirenes/) |
+| **Get License** | [Secure Licensing Rights for Le Chant Des Sirènes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-des-sirenes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1393b1185fc1a9d6843c30e9cef02764426681e6970bb16c6a23f32a9bfcb0ab` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
